@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Autonomous Robotics**
 
-- 🌱 I’m currently learning **DSA, Web Dev**
+- 🌱 And learning **DSA, Web Dev**
 
 - 📫 How to reach me **https://www.linkedin.com/in/isaac-chinthalagattu-460690233/**
 

@@ -7,7 +7,7 @@
 
 - 🌱 And learning **DSA, Web Dev**
 
-- 📫 How to reach me **https://www.linkedin.com/in/isaac-chinthalagattu-460690233/**
+- 📫 How to reach me **[https://www.linkedin.com/in/isaac-chinthalagattu-460690233/](https://linktr.ee/chi29)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

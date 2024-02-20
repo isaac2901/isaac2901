@@ -1,5 +1,5 @@
 ![MasterHead](https://skunkapetreestands.com/wp-content/uploads/2019/08/Dark-Woods-Banner.jpg)
-<h1 align="center">Hello 👋, welcome to my GitHub profile</h1>
+<h1 align="center">Hello 👋, I'm Isaac</h1>
 <h3 align="center">Sophomore at Indian Institute of Technology Madras</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ECR7tah-SGUAAAAM/wanna-code-code.gif">
 

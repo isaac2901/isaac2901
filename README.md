@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sports Robotics using ML](##)
 
-- 📫 How to reach me **https://linktr.ee/chi29**
+- 📫 How to reach me **https://linktr.ee/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [advancing AI in seismic analysis and autonomous sports robotics](##)
 
-- 📫 How to reach me **https://linktr.ee/**
+- 📫 How to reach me **https://linktr.ee/chi29**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

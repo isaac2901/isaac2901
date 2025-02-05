@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaac2901&label=Profile%20views&color=0e75b6&style=flat" alt="isaac2901" /> </p>
 
-- 🔭 I’m currently working on [advancing AI in seismic analysis and autonomous sports robotics](##)
 
 - 📫 How to reach me **https://linktr.ee/chi29**
 
